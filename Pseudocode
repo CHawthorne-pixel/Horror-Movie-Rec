@@ -1,0 +1,40 @@
+#Application initiation either at start up or launch
+Application Launches 
+
+#Introduction language to the application, it's goals, types of results to expect, and the variable options that a user can select 
+Introduction to program 
+
+#List of potential variables
+
+#Type of object or variable that contains the database 
+##May use sql database to hold the movie collection that are then pulled into the application to view 
+Movie collection variable 
+
+# Variable that holds all potential tags associated with movies within the ata base 
+Movie Tag variable 
+
+# Variable that contains the various genres that exist within the database 
+genre variable # Gore & Disturbing, Psychological, Killer, Monster, Paranormal
+
+# Variable that contains the various sub-genres that exist within the database 
+sub-genre variable 
+# G&D: Torture, Splatter, Cannibal, Extreme, French Extremity, Revenge, Body Horror
+# Psychological: Phobia & Isolation, Fanaticism, Madness & Paranoia, Home Invasion, Found Footage, Gothic Horror
+# Killer: Slasher, Crime & Giallo, Backwoods & Redneck, Creepy Kids, 
+# Monster: Neo-Monsters, Animals & Nature, Small Creatures, Zombies, Vampires, Werewolves, Mythological, Giant Monsters, Aliens
+# Paranormal: Ghosts & Spirits, Haunted House, Posession, Devil & Demon & Hell, Witches & Occult, Supernatural
+# Other: Found Footage, Meta, Comedy horror, Sci-Fi Horror, Horror Romance, Anthology Technology 
+
+
+
+# Variable/Object that contains the reference movies for users to navigate through 
+Reference Movie variable 
+
+# Collection of questions 
+# Question 1: Do you enjoy watching horror? Yes or No
+# Question 2: If you had to pick two sub-genres of horror, please select only two checkboxes.
+# Question 3: Do you enjoy typically enjoy classic or modern movies? Classic, Modern, Both, Neither 
+#  Question 4: Are you looking for a popular movie, or something more unique? 
+
+# Collection of questions comparing various movies fron particular genres 
+# Question 4: 
