@@ -1,0 +1,38 @@
+# Sql database for the horror movies that are contained
+
+# Sql entities, attributes, relationships 
+
+# Entities
+Title,
+Genres,
+Themes, 
+Director,
+Writer,
+Cast, 
+Country,
+Studios,
+Primary Language,  
+Run_Time,  
+Composer, 
+Costume Design, 
+
+
+# Entries: 
+
+Title: Sinners
+Summary: "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back"
+Genres: 
+Themes:
+Director:
+Writer:
+Cast: Michael B. Jordan, Hailee Steinfeld, Miles Carton, Jack O'Connell, Wunmi Mosaku, Jayme Lawson, Omar
+Country: USA
+Studios:
+Primary Language: 
+Run_Time: 
+Composer:
+Costume Design:
+
+
+Michael B. Jordan Hailee Steinfeld Miles Caton Jack O'Connell Wunmi Mosaku Jayme Lawson Omar Benson Miller Delroy Lindo Li Jun Li Yao Lola Kirke Peter Dreimanis Buddy Guy Saul Williams Andrene Ward-Hammond Tenaj L. Jackson David Maldonado Aadyn Encalarde Helena Hu Sam Malone Ja'Quan Monroe-Henderson Percy Bell Emonie Ellison Kai Thompson Nathaniel Arcand Mark L. Patrick Gralen Bryant Banks Nicoye Banks Christian Robinson Justin William Davis Deneen Tyler Michael A. Newcomer Theodus Crane Kendalyn Dene Breakfield Airelle Brooks Gabriel Cavallini Jeremy Denzel Le'Andre Douglas Akeem J. Edwards Arouna Guindo Jarrell Hamilton Leroy Harris Jr. Jeoffrey Harris Jr. Alex Huynh Ritho Johnson Donald Jones Jr. Breonna Jordan Trinity Jaden Mitchell Ian Monroe Cuso Mora Winnie Mu Jahaira Myers Andrea Peoples Phyouture Faith Rockward Ahmari Vaughn Tyler Wilson
+
