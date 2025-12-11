@@ -10,8 +10,32 @@ Introduction to program
 ##May use sql database to hold the movie collection that are then pulled into the application to view 
 Movie collection variable 
 
-# Variable that holds all potential tags associated with movies within the ata base 
-Movie Tag variable 
+# Variable that holds all potential tags associated with movies within the data base 
+Movie Tag variable # Unique, Indie, 
+
+# Variable that holds all potential cast members 
+Cast Tag variable 
+
+#
+Director Tag 
+
+#
+Costume Design Tag  
+
+#
+Composer Tag 
+
+#
+Studio
+
+#
+Country 
+
+#
+Language 
+
+#
+Themes 
 
 # Variable that contains the various genres that exist within the database 
 genre variable # Gore & Disturbing, Psychological, Killer, Monster, Paranormal
@@ -34,7 +58,7 @@ Reference Movie variable
 # Question 1: Do you enjoy watching horror? Yes or No
 # Question 2: If you had to pick two sub-genres of horror, please select only two checkboxes.
 # Question 3: Do you enjoy typically enjoy classic or modern movies? Classic, Modern, Both, Neither 
-#  Question 4: Are you looking for a popular movie, or something more unique? 
+# Question 4: Are you looking for a popular movie, or something more unique? 
 
 # Collection of questions comparing various movies fron particular genres 
 # Question 4: 
